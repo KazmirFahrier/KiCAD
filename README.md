@@ -12,11 +12,6 @@ This section contains my hands-on engineering work, focusing on circuit design, 
   * `HOL-Mastering KiCAD-V1_lesson 1 1.pdf`: Hands-on learning notes and assignments covering the fundamentals of the KiCAD interface and basic schematic capture.
   * `HOL-Mastering KiCAD-V1_lesson 2 1.pdf`: Advanced lessons focusing on footprint assignment, PCB layout routing, and design rule checks (DRC).
 
-
-
-## 🗂️ Other Documents
-* `Document (4).pdf`: [Note: Replace this with a brief description of the document once renamed, e.g., Reference datasheet or project rubric.]
-
 ---
 
 ### 💻 Tools & Technologies Used
