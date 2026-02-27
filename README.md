@@ -1,4 +1,4 @@
-# ⚡ KiCAD & Engineering Development Portfolio
+# ⚡ KiCAD Development Portfolio
 
 Welcome to my project repository! This space serves as a portfolio of my technical coursework in PCB design using KiCAD.
 ## 🛠️ Technical Projects & Hardware Design
